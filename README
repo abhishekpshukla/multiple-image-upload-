@@ -4,7 +4,7 @@
 2. Paperclip
 3. resource_controller
 
-== usages
+== Implementation
 
 1. rake db:create
 2. rake db:migrate
